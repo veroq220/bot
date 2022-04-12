@@ -1,0 +1,18 @@
+{
+  "name": "tg-bot",
+  "version": "1.0.0",
+  "main": "node_modules/.bin/index.js",
+  "scripts": {
+    "dev": "nodemon node_modules/.bin/index.js",
+    "start": "node node_modules/.bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.56.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "description": ""
+}
